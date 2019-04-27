@@ -1,0 +1,8 @@
+{
+  "extends": ["tslint-config-egg", "tslint:latest", "tslint-config-prettier"],
+  "rules": {
+    "no-trailing-whitespace": false,
+    "no-console": false,
+    "object-literal-sort-keys": false
+  }
+}
